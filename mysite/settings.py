@@ -88,7 +88,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UAmerica/Mexico_City'
+TIME_ZONE = 'America/Mexico_City'
 
 USE_I18N = True
 
